@@ -34,7 +34,7 @@
       <router-view />
     </section>
     <footer class="footer">
-      <p class="has-text-centered">Copyright</p>
+      <p class="has-text-centered">Copyright.</p>
     </footer>
   </div>
 </template>
